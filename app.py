@@ -55,7 +55,11 @@ def okul_asistani_sorgula(soru):
                 1. SADECE sana verilen 'Bağlam' içindeki bilgileri kullan. 
                 2. Eğer cevap bağlamda yoksa, 'Bu konuyla ilgili yönetmelikte net bir bilgi bulamadım' de. ASLA dış dünyadan bildiğin bilgileri ekleme.
                 3. Cevaplarını maddeler halinde ve resmi bir dille ver.
-                4. Kişisel yorum yapma, veli veya okul müdürü gibi rolleri sınav katılımcılarıyla karıştırma."""
+                KARAR HİYERARŞİSİ:
+                - ÖZÜRSÜZ DEVAMSIZLIK: 10 günü aşan başarısız sayılır.
+                - SINIF GEÇME: Yıl sonu başarı puanı en az 50 OLMALI ve en fazla 3 zayıf bulunmalıdır.
+                4. Kişisel yorum yapma, veli veya okul müdürü gibi rolleri sınav katılımcılarıyla karıştırma.
+                """
             },
             {
                 "role": "user",
