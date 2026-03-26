@@ -1,0 +1,6 @@
+streamlit
+groq
+langchain
+langchain-community
+faiss-cpu (veya kullandığın vektör veritabanı)
+sentence-transformers
